@@ -4,7 +4,7 @@ Thanks to
 @thegitsofficial
  for planting the seeds of our vision.
 
-[!([https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png](https://github.com/GhostInShellAI/Ghost-In-The-Shell-GITS/blob/main/images/GITS.png) "GitHub Logo")](https://github.com/GhostInShellAI/Ghost-In-The-Shell-GITS/blob/main/images/GITS.png)
+(https://github.com/GhostInShellAI/Ghost-In-The-Shell-GITS/blob/main/images/GITS.png)
 
 # Contents 
 
