@@ -4,7 +4,7 @@ Thanks to
 @thegitsofficial
  for planting the seeds of our vision.
 
-(https://github.com/GhostInShellAI/Ghost-In-The-Shell-GITS/blob/main/images/GITS.png)
+![Ghost In The Shell | GITS](https://github.com/GhostInShellAI/Ghost-In-The-Shell-GITS/blob/main/images/GITS.png "Ghost In The Shell | GITS")
 
 # Contents 
 
