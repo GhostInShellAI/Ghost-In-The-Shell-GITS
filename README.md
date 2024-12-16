@@ -4,7 +4,7 @@ Thanks to
 @thegitsofficial
  for planting the seeds of our vision.
 
-!(./images/GITS.png)
+(./images/GITS.png)
 
 # Contents 
 
